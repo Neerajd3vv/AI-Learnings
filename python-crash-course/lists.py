@@ -1,3 +1,5 @@
+# lists in python is nothing but a collection of order values/items...
+
 super_heros = ["spiderman", "ironman", "thor", "hulk", "captain america", "hulk"]
 
 print(super_heros[0])  # Output: spiderman
