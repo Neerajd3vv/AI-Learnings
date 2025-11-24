@@ -7,3 +7,10 @@ class student:
         self.gpa = gpa
         self.is_on_probation = is_on_probation
 
+# Methods are functions that belong to a class
+    def great_student(self):
+        if self.gpa >= 3.5:
+            return True
+        else:
+            return False    
+
